@@ -45,7 +45,7 @@ If you wish to contribute to this project, please follow these guidelines:
 
 ## Credits
 
-This project is developed by [Sujal Joshi] as part of a college project. It aims to provide an elegant and user-friendly online shopping experience for luxury furniture.
+This project is developed by Sujal Joshi as part of a college project. It aims to provide an elegant and user-friendly online shopping experience for luxury furniture.
 
 ## License
 
